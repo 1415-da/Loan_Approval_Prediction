@@ -4,11 +4,11 @@
 
 ## ✨ Features
 
-- 📱 **Fully Responsive** – The web interface is mobile-friendly and adapts to various screen sizes.
-- 🤖 **Loan Prediction** – Predicts whether a loan will be approved or denied based on the user's input.
-- 🧠 **Machine Learning Model** – Trained model using real-world data to predict loan approval status.
-- 🎨 **Clean UI** – Minimal, easy-to-use interface for users to input their data.
-- 🔒 **Secure** – Data is handled securely with form validation and proper error handling.
+- **Fully Responsive** – The web interface is mobile-friendly and adapts to various screen sizes.
+- **Loan Prediction** – Predicts whether a loan will be approved or denied based on the user's input.
+- **Machine Learning Model** – Trained model using real-world data to predict loan approval status.
+- **Clean UI** – Minimal, easy-to-use interface for users to input their data.
+- **Secure** – Data is handled securely with form validation and proper error handling.
 
 ## 🚀 Technologies Used
 
